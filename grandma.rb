@@ -5,7 +5,7 @@ def speak_to_grandma (phrase)
     puts "HUH?! SPEAK UP, SONNY!"
   elsif phrase == phrase.upcase && phrase != "I LOVE YOU GRANDMA!"
     puts "NO, NOT SINCE 1938!"
-  else "HUH?! SPEAK UP, SONNY!"
+  else "I LOVE YOU TOO PUMPKIN!"
 end 
 
 # if dog == "hungry"
